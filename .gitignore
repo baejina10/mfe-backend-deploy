@@ -644,3 +644,6 @@ docs/_book
 .nx/workspace-data/nx_files.nxt
 .nx/workspace-data/file-map.json
 .nx/workspace-data/project-graph.json
+
+# exclude .gradle
+.gradle
